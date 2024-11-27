@@ -1,4 +1,4 @@
-const apiUrl = 'http://127.0.0.1:5000/produtos';
+const apiUrl = 'https://sistema-de-produtos-back-production-ae69.up.railway.app/produtos';
 
 
 async function listarProdutos() {
