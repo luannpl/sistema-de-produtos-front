@@ -1,4 +1,4 @@
-const apiUrl = 'https://sistema-de-produtos-back-production-ae69.up.railway.app/produtos';
+const apiUrl = 'https://sistema-de-produtos-back-production.up.railway.app/produtos';
 
 
 async function listarProdutos() {
